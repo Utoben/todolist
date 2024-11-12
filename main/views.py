@@ -12,7 +12,7 @@ from .utils import *
 from selling.settings import EMAIL_HOST_USER
 
 import os
-import re 
+import re  
 
 
 logging.basicConfig(
