@@ -1,0 +1,4 @@
+db.sqlite3
+/main/__pycache__/
+/main/static/img/
+debug.log
